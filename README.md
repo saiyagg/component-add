@@ -55,3 +55,4 @@ componentAdd('rcf', './').then(() => {
 ## License
 
 Component is released under the MIT license.
+
