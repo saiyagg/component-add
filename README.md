@@ -32,7 +32,6 @@ eg:
 $ component-add rcf ./src/component/
 ```
 
-
 ### api
 ```javascript
 var componentAdd = require("component-add");
